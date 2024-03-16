@@ -1,6 +1,5 @@
-print("This is vasudevan")
-
-num = int(integer("Enter the number: "))
+# Python Vote code
+num = int(input("Enter the number: "))
 if age > num:
   print("eligible to vote")
 else:
