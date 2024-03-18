@@ -4,7 +4,7 @@ if age > num:
   print("eligible to vote")
 else:
   print("not eligible to vote")
-  print("This is an important line")
+  print("This is an very good line")
 
 
 # I am very good to have this code
